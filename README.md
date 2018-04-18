@@ -23,3 +23,7 @@
 1. Access WordPress:
 
 	http://127.0.0.1:8081/
+
+**Notes:**
+
+The default username is `wordpress` and the password is `pressword`.
