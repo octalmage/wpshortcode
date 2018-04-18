@@ -14,6 +14,12 @@
 	make start
 	```
 
+1. Init the container to install WordPress:
+
+	```
+	make init
+	```
+
 1. Access WordPress:
 
 	http://127.0.0.1:8081/
