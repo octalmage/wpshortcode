@@ -8,6 +8,12 @@
 	git clone https://github.com/octalmage/wpshortcode
 	```
 
+1. Change to the wpshortcode directory:
+
+```
+cd wpshortcode
+```
+
 1. Start the container:
 
 	```
