@@ -10,9 +10,9 @@
 
 1. Change to the wpshortcode directory:
 
-```
-cd wpshortcode
-```
+	```
+	cd wpshortcode
+	```
 
 1. Start the container:
 
