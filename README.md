@@ -33,3 +33,26 @@
 **Notes:**
 
 The default username is `wordpress` and the password is `pressword`.
+
+
+## Instructions for Windows Home Edition:
+
+Install docker toolbox for Windows.
+
+Open the command prompt as administrator then cd to c:\Program Files\Docker Toolbox and run start.sh
+
+Once that’s done you should end up in a bash shell, cd to the directory of the plugin and run:
+
+```
+docker-compose up -d
+```
+
+Then:
+
+```
+./init-old.sh
+```
+
+You should be able to access WordPress at:
+
+https://192.168.99.101:8081
