@@ -5,7 +5,7 @@ Description: It's a shortcode!
 Version: 0.1.0
 Author: Sally
 */
-function foobar_func( $atts ){
+function foobar_func( $atts ) {
 	return "foo and bar";
 }
 
